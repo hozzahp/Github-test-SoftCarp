@@ -12,6 +12,6 @@
 
 *italics*
 
-This is going to be some change in the branch version- not the master version
+This is going to be some changes in the branch version- not the master version
 
 This is the homebase of the project
