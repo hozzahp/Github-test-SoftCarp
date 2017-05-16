@@ -2,16 +2,9 @@
 
 ## Second level title
 
-### Third level title
-
-1. FIRST ITEM
+1. first item
 2. second item
-2. Third item
-
 **Bold**
-
 *italics*
 
-This is going to be some changes in the branch version- not the master version
 
-This is the homebase of the project
